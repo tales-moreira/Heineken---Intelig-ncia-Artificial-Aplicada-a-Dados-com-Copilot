@@ -5,17 +5,17 @@
 Objetivo:
 Refine o modelo apresentado acrescentando os seguintes pontos:
 
-Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
-Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
-Entrega – Possui status e código de rastreio;
+Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;<br>
+Pagamento – Pode ter cadastrado mais de uma forma de pagamento;<br>
+Entrega – Possui status e código de rastreio;<br>
 
 ## Desafio 2 - Construindo um Esquema Conceitual para Banco De dados - Sistema de Ordem de Serviço de uma Oficina
 
 Objetivo:
-Cria o esquema conceitual para o contexto de oficina com base na narrativa fornecida
+Cria o esquema conceitual para o contexto de oficina com base na narrativa fornecida<br>
 
 Narrativa:
-Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica
+Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica <br>
 Clientes levam veículos à oficina mecânica para serem consertados ou para passarem por revisões  periódicas
 Cada veículo é designado a uma equipe de mecânicos que identifica os serviços a serem executados e preenche uma OS com data de entrega.
 A partir da OS, calcula-se o valor de cada serviço, consultando-se uma tabela de referência de mão-de-obra

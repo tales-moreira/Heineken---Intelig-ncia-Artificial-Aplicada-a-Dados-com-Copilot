@@ -11,8 +11,8 @@ Entrega – Possui status e código de rastreio;<br>
 
 ## Desafio 2 - Construindo um Esquema Conceitual para Banco De dados - Sistema de Ordem de Serviço de uma Oficina
 
-Objetivo:<br>
-Cria o esquema conceitual para o contexto de oficina com base na narrativa fornecida<br>
+Objetivo:
+Criar o esquema conceitual para o contexto de oficina com base na narrativa fornecida<br>
 <br>
 Narrativa:<br>
 Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica <br>

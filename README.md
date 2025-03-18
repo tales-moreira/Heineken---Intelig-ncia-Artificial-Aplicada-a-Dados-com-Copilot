@@ -23,3 +23,9 @@ O valor de cada peça também irá compor a OSO cliente autoriza a execução do
 A mesma equipe avalia e executa os serviços
 Os mecânicos possuem código, nome, endereço e especialidade
 Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
+
+## Desafio 3 - Criando e implementando um projeto lógico de bando de dados
+Neste desafio, foi realizada uma modelagem de dados para um projeto lógico no cenário de e-commerce, replicando as técnicas aprendidas no desafio anterior;
+Em seguida, realizei a criação do script SQL para a criação do esquema no banco de dados;
+Após isso, outro script foi criado para que os dados das tabelas fossem persistidos no banco;
+Por fim, realizei algumas consultas, respondendo algumas perguntas relacionadas ao cenário.

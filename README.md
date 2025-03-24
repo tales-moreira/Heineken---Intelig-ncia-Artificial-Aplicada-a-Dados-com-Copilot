@@ -24,8 +24,13 @@ A mesma equipe avalia e executa os serviços;<br>
 Os mecânicos possuem código, nome, endereço e especialidade;<br>
 Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
 <br>
-## Desafio 3 - Criando e implementando um projeto lógico de bando de dados<br>
+## Desafio 3 - Criando e implementando um projeto lógico de banco de dados<br>
 Neste desafio, foi realizada uma modelagem de dados para um projeto lógico no cenário de e-commerce, replicando as técnicas aprendidas no desafio anterior;<br>
 Em seguida, realizei a criação do script SQL para a criação do esquema no banco de dados;<br>
 Após isso, outro script foi criado para que os dados das tabelas fossem persistidos no banco;<br>
-Por fim, realizei algumas consultas, respondendo algumas perguntas relacionadas ao cenário.
+Por fim, realizei algumas consultas, respondendo algumas perguntas relacionadas ao cenário.<br>
+<br>
+## Desafio 4 - Criando e implementando um projeto lógico de banco de dados 2<br>
+Neste desafio, foi recriado todo o processo realizado no desafio anterior, mas desta vez em um cenário de Oficina mecânica;<br>
+Novamente, realizei a criação do script SQL para a criação do esquema no banco de dados e para a persistência dos dados;<br>
+E ao final do desafio respondi 3 perguntas relacionados ao contexto do desafio através de consultas SQL.

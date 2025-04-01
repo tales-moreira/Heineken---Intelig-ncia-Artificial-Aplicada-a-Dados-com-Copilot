@@ -33,4 +33,8 @@ Por fim, realizei algumas consultas, respondendo algumas perguntas relacionadas 
 ## Desafio 4 - Criando e implementando um projeto lógico de banco de dados 2<br>
 Neste desafio, foi recriado todo o processo realizado no desafio anterior, mas desta vez em um cenário de Oficina mecânica;<br>
 Novamente, realizei a criação do script SQL para a criação do esquema no banco de dados e para a persistência dos dados;<br>
-E ao final do desafio respondi 3 perguntas relacionados ao contexto do desafio através de consultas SQL.
+E ao final do desafio respondi 3 perguntas relacionados ao contexto do desafio através de consultas SQL.<br>
+<br>
+## Desafio 5 - Criando um dashboard de vendas<br>
+Neste desafio ultilizei uma base de dados fictícia sobre as assinaturas Xbox Game Pass;<br>
+Utilizei os dados para gerar informações a respeito do valor total em assinaturas do EA Pass e do Minecraft Pass a partir de tabelas e gráficos dinâmicos.
